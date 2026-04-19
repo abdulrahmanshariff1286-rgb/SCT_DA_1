@@ -40,9 +40,6 @@ The cleaned dataset (`Superstore_Cleaned_Ready.xlsx`) was imported into Excel fo
 ### Performance Breakdowns
 | Total Sales KPI | Profit By Category | Sales Over Time |
 | :---: | :---: | :---: |
-| ![Total Sales]<img width="865" height="473" alt="Total Sales for task 1" src="https://github.com/user-attachments/assets/f7a8767c-d482-467b-827e-d2684985cd90" />
- | ![Profit By Category]<img width="862" height="387" alt="Profit By Category For task 1" src="https://github.com/user-attachments/assets/f0788de3-dcda-4df2-bb03-b782efca0b39" />
- | ![Sales Over Time]<img width="884" height="541" alt="Sale over Time for task 1" src="https://github.com/user-attachments/assets/638dd98d-731d-4526-af81-69ba5012ffd3" />
- |
+|![Total Sales]<img width="865" height="473" alt="Total Sales for task 1" src="https://github.com/user-attachments/assets/f7a8767c-d482-467b-827e-d2684985cd90" />|![Profit By Category]<img width="862" height="387" alt="Profit By Category For task 1" src="https://github.com/user-attachments/assets/f0788de3-dcda-4df2-bb03-b782efca0b39" />|![Sales Over Time]<img width="884" height="541" alt="Sale over Time for task 1" src="https://github.com/user-attachments/assets/638dd98d-731d-4526-af81-69ba5012ffd3" />|
 
 
