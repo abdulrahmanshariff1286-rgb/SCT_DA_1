@@ -34,23 +34,15 @@ The cleaned dataset (`Superstore_Cleaned_Ready.xlsx`) was imported into Excel fo
 *(Click to expand the images)*
 
 ### Main Dashboard
-![Main Dashboard](Dashboard%20image%20of%20task%201.png)
+![Main Dashboard]<img width="1104" height="532" alt="Dashboard image of task 1" src="https://github.com/user-attachments/assets/452e7127-b813-4203-8809-8bd01bd20ec0" />
+
 
 ### Performance Breakdowns
 | Total Sales KPI | Profit By Category | Sales Over Time |
 | :---: | :---: | :---: |
-| ![Total Sales](Total%20Sales%20for%20task%201.png) | ![Profit By Category](Profit%20By%20Category%20For%20task%201.png) | ![Sales Over Time](Sale%20over%20Time%20for%20task%201.png) |
+| ![Total Sales]<img width="865" height="473" alt="Total Sales for task 1" src="https://github.com/user-attachments/assets/f7a8767c-d482-467b-827e-d2684985cd90" />
+ | ![Profit By Category]<img width="862" height="387" alt="Profit By Category For task 1" src="https://github.com/user-attachments/assets/f0788de3-dcda-4df2-bb03-b782efca0b39" />
+ | ![Sales Over Time]<img width="884" height="541" alt="Sale over Time for task 1" src="https://github.com/user-attachments/assets/638dd98d-731d-4526-af81-69ba5012ffd3" />
+ |
 
-## 📂 Repository Structure
-```text
-├── Data/
-│   ├── train.csv                             # Raw dataset
-│   └── Superstore_Cleaned_Ready.xlsx         # Final cleaned dataset with dashboard
-├── Scripts/
-│   └── Python_script_for_task_1.py           # Data cleaning & engineering script
-├── Images/
-│   ├── Dashboard image of task 1.png
-│   ├── Profit By Category For task 1.png
-│   ├── Sale over Time for task 1.png
-│   └── Total Sales for task 1.png
-└── README.md
+
